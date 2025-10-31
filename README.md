@@ -1,5 +1,3 @@
-# Individual-Practical-Test
-
 -----
 
 #  CSC 3115: Advanced Programming - Individual Practical Test Solutions
